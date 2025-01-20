@@ -72,7 +72,8 @@ public class AIManager : MonoBehaviour
             }
 
            
-            
+            // null ise sıfırlansın her şey
+            // trigger ile sıfırla
         }
     }
 
